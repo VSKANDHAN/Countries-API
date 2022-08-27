@@ -46,7 +46,7 @@ function getCountries(fetchedData){
 
 
 }
-showInfo(list[104])
+
 function showInfo(cname){
 const selectedCountry = countries.find(country=>country.name === cname)
 

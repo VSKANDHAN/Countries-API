@@ -1,0 +1,3 @@
+# Countries-API
+#For the first time got some handson experience in the realtime REST API.Here i used the countries API, to display the country capital,population,region,languages,flag etc....
+#This page is deployed @ https://vskandhan.github.io/Countries-API/
