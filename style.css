@@ -97,6 +97,16 @@ img[src=""] {
         display: flex;
         flex-direction: column;
     }
+    #paras{
+        font-size: 14px;
+        padding: 10px;
+    }
+    #cimg{
+        width: auto;
+        height: auto;
+        padding: 10px;
+    }
+    
 }
 
 
